@@ -15,6 +15,6 @@ Create a new file index.html. Don't forget to add the .html extension.
 
 Now, start writing your code in the index.html.
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/c50-v2-OrigamiClone-Part2/
+### Output Link : https://vishnupriya-whitehatjr.github.io/c51-v2-OrigamiClone-Part3/index.html
 
 
